@@ -1,0 +1,38 @@
+select * from SM_FUNCREGISTER where fun_code like 'H6%' ;
+select * from SM_BUTNREGISTER where fun_code like 'H6%' ;
+select * from DAP_DAPSYSTEM where systypecode='SW';
+select * from SM_CODETOCODE where funccode like 'H6%' ;
+
+select * from bd_billtype where  PK_BILLTYPECODE like 'SW%';
+select * from pub_votable where pk_billtype  like 'SW%' ;
+select * from pub_billaction where pk_billtype  like 'SW%' ;
+select * from pub_busiclass where pk_billtype  like 'SW%' ;
+
+SELECT * FROM BD_DEFDOCLIST WHERE DOCLISTCODE LIKE 'SW%';
+select * from BD_DEFDOC where pk_defdoclist in (select pk_defdoclist from BD_DEFDOCLIST where DOCLISTCODE like 'SW%');
+
+select * from pub_billcode_rule where pk_billtypecode like 'SW%';
+
+select * from bd_bdinfo where bdcode like 'DSW%';
+select * from bd_refinfo  where code like 'DSW%';
+
+select * from PUB_SYSTEMPLATE where funnode like 'H6%';
+
+select * from pub_query_templet where pub_query_templet.NODE_CODE like 'H6%';
+select * from pub_query_condition where pub_query_condition.PK_TEMPLET in (select pub_query_templet.ID from pub_query_templet where  pub_query_templet.NODE_CODE like 'H6%');
+
+--template
+select * from pub_billtemplet where PK_BILLTYPECODE like 'SW%' or PK_BILLTYPECODE like 'sw%';
+select * from PUB_BILLTEMPLET_B where PK_BILLTEMPLET in (select PK_BILLTEMPLET from pub_billtemplet where PK_BILLTYPECODE like 'SW%' or PK_BILLTYPECODE like 'sw%');
+select * from PUB_BILLTEMPLET_t where PK_BILLTEMPLET in (select PK_BILLTEMPLET from pub_billtemplet where PK_BILLTYPECODE like 'SW%' or PK_BILLTYPECODE like 'sw%');
+
+
+--print
+select * from pub_print_template where vnodecode like 'H6%';
+select * from pub_print_datasource where pub_print_datasource.CTEMPLATEID in (select CTEMPLATEID from pub_print_template where vnodecode like 'H6%');
+select * from pub_print_cell where CTEMPLATEID in (select CTEMPLATEID from pub_print_template where vnodecode like 'H6%');
+select * from pub_print_dataitem where vnodecode like 'H6%';
+
+
+BD_DEFQUOTE
+bd_defused

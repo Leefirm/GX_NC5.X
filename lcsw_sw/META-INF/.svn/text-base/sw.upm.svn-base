@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="sw">
+	<public>
+		<component remote="true" singleton="true" tx="CMT" active="true" priority="0"
+			supportAlias="true">
+			<interface>nc.vo.lcsw.sw02.itf.IBzsq</interface>
+			<implementation>nc.bs.lcsw.sw02.BzsqImpl</implementation>
+		</component>
+		<component remote="true" singleton="true" tx="CMT" active="true" priority="0"
+			supportAlias="true">
+			<interface>nc.vo.lcsw.sw03.itf.IKcpg</interface>
+			<implementation>nc.bs.lcsw.sw03.KcpgImpl</implementation>
+		</component>
+		<component remote="true" singleton="true" tx="CMT" active="true" priority="0"
+			supportAlias="true">
+			<interface>nc.vo.lcsw.sw04.itf.IKcfk</interface>
+			<implementation>nc.bs.lcsw.sw04.KcfkImpl</implementation>
+		</component>
+		<component remote="true" singleton="true" tx="CMT" active="true" priority="0"
+			supportAlias="true">
+			<interface>nc.vo.lcsw.sw05.itf.IGcpgsj</interface>
+			<implementation>nc.bs.lcsw.sw05.GcpgsjImpl</implementation>
+		</component>
+		<component remote="true" singleton="true" tx="CMT" active="true" priority="0"
+			supportAlias="true">
+			<interface>nc.vo.lcsw.sw06.itf.IFbyjaz</interface>
+			<implementation>nc.bs.lcsw.sw06.FbyjazImpl</implementation>
+		</component>
+	</public>
+</module>

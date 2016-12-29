@@ -1,0 +1,36 @@
+package nc.vo.lcsw.sw03;
+
+import java.util.Arrays;
+import nc.vo.pub.CircularlyAccessibleValueObject;
+import nc.vo.trade.pub.HYBillVO;
+
+public class KcpgAggVO extends HYBillVO{
+
+	@Override
+	public CircularlyAccessibleValueObject[] getChildrenVO() {
+		// TODO Auto-generated method stub
+		return (KcpgBVO[])super.getChildrenVO();
+	}
+
+	@Override
+	public CircularlyAccessibleValueObject getParentVO() {
+		// TODO Auto-generated method stub
+		return (KcpgHVO)super.getParentVO();
+	}
+
+	@Override
+	public void setChildrenVO(CircularlyAccessibleValueObject[] children) {
+		if( children == null || children.length == 0 ){
+			super.setChildrenVO(null);
+		}
+		else{
+			super.setChildrenVO((CircularlyAccessibleValueObject[]) Arrays.asList(children).toArray(new KcpgBVO[0]));
+		}
+	}
+
+	@Override
+	public void setParentVO(CircularlyAccessibleValueObject parent) {
+		super.setParentVO((KcpgHVO)parent);
+	}
+
+}

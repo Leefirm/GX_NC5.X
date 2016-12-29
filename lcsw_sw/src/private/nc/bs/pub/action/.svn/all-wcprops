@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/GX_LCSW/!svn/ver/156/05code/GX_LCSW/src/private/nc/bs/pub/action
+END
+N_SW07_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/70/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_DELETE.java
+END
+N_SW08_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/67/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_DELETE.java
+END
+N_SW11_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/135/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_APPROVE.java
+END
+N_SW03_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/112/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_APPROVE.java
+END
+N_SW11_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/165/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_UNAPPROVE.java
+END
+N_SW05_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/112/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_APPROVE.java
+END
+N_SW03_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/119/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_UNAPPROVE.java
+END
+N_SW03_APPROVECOND.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GX_LCSW/!svn/ver/33/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_APPROVECOND.java
+END
+N_SW07_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/153/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_APPROVE.java
+END
+N_SW05_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/157/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_UNAPPROVE.java
+END
+N_SW07_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/157/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_UNAPPROVE.java
+END
+N_SW02_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/26/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_EDIT.java
+END
+N_SW03_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/33/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_EDIT.java
+END
+N_SW04_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/42/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_EDIT.java
+END
+N_SW05_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/56/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_EDIT.java
+END
+N_SW10_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_WRITE.java
+END
+N_SW06_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/78/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_EDIT.java
+END
+N_SW02_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/131/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_WRITE.java
+END
+N_SW07_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/70/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_EDIT.java
+END
+N_SW08_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/67/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_EDIT.java
+END
+N_SW04_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/109/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_WRITE.java
+END
+N_SW02_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/26/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_SAVE.java
+END
+N_SW06_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GX_LCSW/!svn/ver/78/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_WRITE.java
+END
+N_SW03_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/33/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_SAVE.java
+END
+N_SW04_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/42/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_SAVE.java
+END
+N_SW08_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GX_LCSW/!svn/ver/67/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_WRITE.java
+END
+N_SW05_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/56/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_SAVE.java
+END
+N_SW10_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_DELETE.java
+END
+N_SW06_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/78/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_SAVE.java
+END
+N_SW11_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/49/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_DELETE.java
+END
+N_SW07_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/70/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_SAVE.java
+END
+N_SW08_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/67/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_SAVE.java
+END
+N_SW10_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_APPROVE.java
+END
+N_SW02_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/157/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_APPROVE.java
+END
+N_SW04_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/112/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_APPROVE.java
+END
+N_SW10_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_UNAPPROVE.java
+END
+N_SW02_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/GX_LCSW/!svn/ver/88/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_UNAPPROVE.java
+END
+N_SW06_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/109/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_APPROVE.java
+END
+N_SW04_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/119/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_UNAPPROVE.java
+END
+N_SW08_APPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GX_LCSW/!svn/ver/135/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_APPROVE.java
+END
+N_SW06_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/157/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_UNAPPROVE.java
+END
+N_SW10_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_EDIT.java
+END
+N_SW11_EDIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/49/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_EDIT.java
+END
+N_SW08_UNAPPROVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GX_LCSW/!svn/ver/150/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW08_UNAPPROVE.java
+END
+N_SW11_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/114/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_WRITE.java
+END
+N_SW03_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GX_LCSW/!svn/ver/41/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_WRITE.java
+END
+N_SW10_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/47/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW10_SAVE.java
+END
+N_SW05_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GX_LCSW/!svn/ver/74/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_WRITE.java
+END
+N_SW11_SAVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GX_LCSW/!svn/ver/49/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW11_SAVE.java
+END
+N_SW07_WRITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/125/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW07_WRITE.java
+END
+N_SW02_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/26/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW02_DELETE.java
+END
+N_SW03_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/33/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW03_DELETE.java
+END
+N_SW04_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/42/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW04_DELETE.java
+END
+N_SW05_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/56/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW05_DELETE.java
+END
+N_SW06_DELETE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GX_LCSW/!svn/ver/78/05code/GX_LCSW/src/private/nc/bs/pub/action/N_SW06_DELETE.java
+END
